@@ -92,7 +92,22 @@ Scatterplots revealed regional variations in engagement.
 
 Sample Visuals:
 
-ROI Distribution:
+ROI Distribution: <img width="1440" alt="Screenshot 2025-02-28 at 4 39 36 PM" src="https://github.com/user-attachments/assets/c4b4e1d9-459b-48c5-9320-2c2be2410c60" />
+
+
+Actual vs. Predicted ROI:
+<img width="1440" alt="Screenshot 2025-02-28 at 4 42 53 PM" src="https://github.com/user-attachments/assets/cabb15c0-6c3f-4b53-83e2-c88feb8c8acb" />
+
+Future Enhancements:
+
+1.Include real-world datasets to validate the model.
+
+2.Build an interactive dashboard with Tableau or Power BI.
+
+3.Experiment with advanced models like Random Forest or Neural Networks for improved predictions.
+
+
+
 
 
 
